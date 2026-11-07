@@ -81,9 +81,10 @@
         border-style: solid;
         border-width: 6px;
         display: flex;
-        justify-content: space-between;
+        justify-content: space-evenly;
+        gap: 5px;
         padding: 10px;
-        
+        flex-wrap: wrap;
         
     }
     ul li {
@@ -97,11 +98,16 @@
         padding: 14px 16px;
         text-decoration: none;
         font-family: Changa One;
-        font-size: clamp(20px, 3vw, 30px);
+        font-size: clamp(15px, 2vw, 30px);
     }
     ul li a:hover {
         background-color:#a5af67;
         color: #483d51;
+    }
+    p {
+        font-family: Changa One;
+         font-size: clamp(15px, 2vw, 20px);
+          color: #a5af67;
     }
     </style>
 </head>
@@ -109,11 +115,10 @@
 
 <body>
  <a href="https://toyhou.se/FishyDrawer">
-    <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/130689260_gUdzSYDelIpXjuv.gif" style="height: 500px; position: fixed; right: 1px; bottom: 1px; z-index: 1;" title="art by Myself" class="tooltipster hidden-sm-down" >
+    <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/130689260_gUdzSYDelIpXjuv.gif" style="max-height: 5000vm; position: fixed; right: 1px; bottom: 100px; z-index: 1;" title="art by ARTIST CREDIT" class="tooltipster hidden-sm-down" >
     </a>
 
-        <h1 style="color: #a5af67; font-family: Changa One; font-size: 70px; text-align: center; background-color: #483d51; padding: 1%; border-color: #a5af67; border-radius: 30px; border-style: solid; border-width: 6px;"><b>FishyDrawer</b></h1>
-        
+        <h1 style="color: #a5af67; font-family: Changa One; font-size: clamp(0px, 5vw, 70px); text-align: center; background-color: #483d51; padding: 1%; border-color: #a5af67; border-radius: 30px; border-style: solid; border-width: 6px;"><b>FishyDrawer</b></h1>        
         <nav>
             <ul id="new">
                 <li><a href="index.html">Main</a></li>
