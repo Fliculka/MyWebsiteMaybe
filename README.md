@@ -10,6 +10,10 @@ I originaly wanted to make it a ToyHouse character profile that would fit this w
 It runs on hopes, dreams and imaginary ducktape.
 Anyone who knows what they're doing in html and css will know by just looking at the code that I do NOT know what am doing.
 
+### DOES IT WORK ON MOBILE?
+Wellll more or less. I do reccomend a bigger screen, but it does work...
+(it was hell)
+
 ### AI USAGE DECLARATION
 I Never used AI to code for me nor for any images / texts used. 
 The ONLY thing AI was used for, was if I couldn't find a source that would dumb something down enough for me so I asked AI how it works, and then usually figured it out myself.
@@ -41,3 +45,20 @@ I genuienly almost had a crashout. It always worked, but not, then yes but too m
 ### CREDITS FOR CODE SNIPPETS
 The pagedoll: https://toyhou.se/~forums/16.htmlcss-graphics/656180.lf-pagedoll-codes
 -> The uppermost comment (the user doesn't know where they found it either, so I'll just credit it like this)
+
+-> Nav bar base: https://www.w3schools.com/css/css_navbar.asp
+I used the horizontal one
+
+-> Project link embeds: Itch.io
+They literally give you one, you just edit the colors.
+
+-> Free Hosting: Netlify
+Idk, it was the only one I found that offered a free domain name (ofc it has their part in but idc, its free)
+If anyone has better one's, feel free to let me know! This one uses too much AI for my liking but am slowly starting to feel like it truly is inevitable and that our future is bleak.
+
+-> Image hosting: the one and only - ToyHouse
+Peak site, peak community.
+
+-> Background image: Somewhere on unsplash
+I THOUGH I SAVED THE LINK BUT I DIDN'TTT NOOOOOOOOOOOOOOO
+I am truly sorry to the photographer, I tried searching for the same image but there are so many that look the samee...
