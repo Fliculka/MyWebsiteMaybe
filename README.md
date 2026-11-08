@@ -29,7 +29,7 @@ Yeaaa, that's the ugly thing in the Untitled file.... Please don't try to open i
 After I quickly sketched up something in Microsoft paint, I moved on to actually do it. Keep in mind I've only dabbled in html and css - Mainly editing f2u codes on th for character profiles + we just started learning the basics of html in one of my classes. I begun by addeng the background (which didn't repeat at that time) and added the pagedoll (emotional support).
 
 ### 1ST LOCK IN
-I quickly fell in love with this project (fr tho) I made the title, spent a while making a quality nav bar (which yes, most of it was borrowed from W3Schools) BUT HEY IT LOOKS GOOD. There was originaly only the one with my socials, but I duplicated it for the purpose of more pages being added. I also finished the main box (about me box) but left it with lorem ipsum filling for the next 5-6h or so t-t
+I quickly fell in love with this project (fr tho) I made the title, spent a while making a quality nav bar (which yes, most of it was borrowed from W3Schools) BUT HEY IT LOOKS GOOD. There was originaly only the one with my socials, but I duplicated it for the purpose of more pages being added. I also finished the main box (about me box) but left it with lorem ipsum filling for the next 5-6h or so T-T
 
 ### Gallery
 I figured, why not add a gallery? Am primarily an artist aren't I
@@ -48,7 +48,6 @@ The pagedoll: https://toyhou.se/~forums/16.htmlcss-graphics/656180.lf-pagedoll-c
 
 -> Nav bar base: https://www.w3schools.com/css/css_navbar.asp
 I used the horizontal one
-
 -> Project link embeds: Itch.io
 They literally give you one, you just edit the colors.
 
